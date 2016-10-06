@@ -1,0 +1,44 @@
+#content {
+	padding: 10px;
+}
+
+#price_info{
+	float: right;
+	margin-right: 10px;
+}
+
+#price {
+	width: 200px;
+	height: 100px;
+	border: 1px black solid;
+}
+
+#info {
+	float: right;
+	width: 200px;
+	margin-top: 10px;
+	height: 290px;
+	border: 1px black solid;
+}
+
+#info ul {
+	padding-left: 20px;
+	text-align: left;
+}
+
+#photos {
+	width: 400px;
+	height: 400px;
+	border: 1px black solid;
+}
+
+#description {
+	position: relative;
+	margin-top: 20px;
+	width: 625px;
+	border: 1px black solid;
+}
+
+h3 {
+	margin: 5px;
+}
